@@ -1,5 +1,7 @@
-FROM fedora:27
+FROM fedora:33
 MAINTAINER Marcelo Moreira de Mello <tchello.mello@gmail.com>
+MAINTAINER Pablo N. Hess <phess@phess.org>
+MAINTAINER Amar Hutchchanavar <>
 
 ENV PORT 8000
 
